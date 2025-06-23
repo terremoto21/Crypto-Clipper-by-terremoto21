@@ -1,7 +1,7 @@
 # Clipboard Crypto Address Replacer
 This project is a C# application that replaces cryptocurrency wallet addresses copied to the clipboard with predefined addresses. The application detects wallet addresses using regex patterns for different cryptocurrencies and replaces them using RSA encryption.  
 
-Release Version 3.0.0
+Release Version 3.0.0 (23/06/2025)
 Password: terremoto21
 
 ## Features
